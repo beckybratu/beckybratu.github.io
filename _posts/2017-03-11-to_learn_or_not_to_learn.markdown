@@ -11,4 +11,4 @@ Journalism and programming are similar in their quest for information and its in
 
 I can only hope my journalistic skills will inform this latest endeavor. 
 
-![https://blogs.journalism.co.uk/editors/wp-content/uploads/2010/07/Programming-flowchat.jpg]
+![](https://blogs.journalism.co.uk/editors/wp-content/uploads/2010/07/Programming-flowchat.jpg)
